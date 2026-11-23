@@ -1,0 +1,2 @@
+# AI-Governance-in-Accounting-What-U.S.-CFOs-Should-Expect-From-an-Outsourced-Accounting-Partner
+Artificial intelligence is changing how finance departments process transactions, organize financial information, prepare reports, and manage recurring accounting activities. From automated invoice extraction to AI-assisted reconciliation, businesses are exploring new ways to improve finance operations.
